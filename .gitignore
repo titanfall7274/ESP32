@@ -1,0 +1,12 @@
+# Arduino / PlatformIO 빌드 결과물
+build/
+.pio/
+*.bin
+*.elf
+*.map
+
+# 에디터, OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
